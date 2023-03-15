@@ -15,6 +15,7 @@ $prod=new Product('Rice',2,3000);
 //    'qty'=>$prod->qty,
 //    'price'=>$prod->price, 
 // ];
+//all comment can be require
 
 $db=new DBTransaction();
 //$db->deleteTransaction($sql);
